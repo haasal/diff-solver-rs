@@ -1,4 +1,4 @@
-use diff_solve::{save_to_file, solver::solve, Params, F};
+use diff_solve::{solver::solve, Params, F};
 
 fn main() {
     // f'(x) = x -> f(x) = 2 * sin(x)/x (should be pi)
